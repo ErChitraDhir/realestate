@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Chitra Dir
+Chitra Dhir
 
 ## 🙏 Acknowledgments
 
@@ -131,4 +131,4 @@ Chitra Dir
 
 ---
 
-Made with ❤️ by Chitra Dir
+Made with ❤️ by Chitra Dhir
